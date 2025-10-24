@@ -5,3 +5,5 @@ def night_work(some):
 
 night_work("bla-bla")
     
+print("Hi everyone!")
+
